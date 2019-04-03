@@ -1,0 +1,6 @@
+module Pods_CocoaBook [system] {
+  umbrella header "Pods-CocoaBook-umbrella.h"
+
+  export *
+  module * { export * }
+}
